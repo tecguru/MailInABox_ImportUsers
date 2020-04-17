@@ -5,6 +5,7 @@ Instructions
 1) Upload to any server with Python Installed. You can use your MailinaBox server. 
 
 2) Install python-requests using the following command:
+
 apt install python-requests
 
 3) Replace the userlist.csv file with your the emails and passwords to import. This file should not contain headers
